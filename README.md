@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Gabriel Teixeira Silveira e eu sou um desenvolvedor Front-end!
 
 ## 📍Sobre mim
-### Atualmente, sou um estudante de 23 anos sedento por conhecimento. Estou cursando Engenharia de Software pela Universidade Unicesumar e dedico todo o meu tempo em projetos pessoais e cursos para aprimorar minhas habilidades. Sempre fui um amante da tecnologia e dos games, e codar se tornou uma verdadeira paixão para mim. Então, como diria Steve Rogers, "Eu posso fazer isso o dia todo".
+### Atualmente, sou um estudante de 23 anos sedento por conhecimento. Estou cursando Engenharia de Software pela Faculdade Unicesumar e dedico todo o meu tempo em projetos pessoais e cursos para aprimorar minhas habilidades. Sempre fui um amante da tecnologia e dos games, e codar se tornou uma verdadeira paixão para mim. Então, como diria Steve Rogers, "Eu posso fazer isso o dia todo".
 
 ##
 
